@@ -9,4 +9,4 @@ To access through your browser run a local server on your machine:
 - open your browser and go to localhost:8888 to view your blank canvas
 
 - to open the developer console in the browser to run and test JavaScript press
-  CMD-Option + J
+  CMD + Option + J
